@@ -1,4 +1,6 @@
-﻿# OpenOcta Python Backend
+基于https://github.com/openocta/openocta二次开发，替换了后端架构，感兴趣的可以去openocta查看原始项目
+
+# OpenOcta Python Backend
 
 OpenOcta Python FastAPI backend with integrated Control UI frontend.
 
